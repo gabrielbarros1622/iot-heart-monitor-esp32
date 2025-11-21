@@ -1,5 +1,5 @@
 # iot-heart-monitor-esp32
-# Projeto final de Objetos Inteligentes Conectados: Sistema de Monitoramento de Batimentos Cardíacos baseado em ESP32 e MQTT.
+# Sistema de Monitoramento de Batimentos Cardíacos Baseado em ESP32 e IoT para Apoio à Saúde Preventiva.
 
 Este projeto apresenta o desenvolvimento de um sistema de monitoramento de batimentos cardíacos utilizando a plataforma ESP32, comunicação sem fio e protocolo MQTT. A solução se baseia nos conceitos de Internet das Coisas (IoT) e tem como objetivo auxiliar aplicações de saúde preventiva, permitindo a leitura contínua da frequência cardíaca, envio de dados para um servidor e acionamento automático e remoto de alertas sonoros.
 
